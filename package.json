@@ -1,0 +1,17 @@
+{
+  "name": "blendycraft-bot",
+  "version": "0.0.1",
+  "description": "Stupid bot",
+  "main": "bot.js",
+  "author": "Evan Merz",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.io": "git+https://github.com/izy521/discord.io.git",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "socket.io": "^2.3.0"
+  }
+}

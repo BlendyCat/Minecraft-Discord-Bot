@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+api-config.json
+auth.json
+config.json
+index.html
+bot.js
+stripe.json
+tokenizer.js
+webhook.js
